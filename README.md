@@ -1,4 +1,4 @@
-A startup TensorFlow project for image classification.
+TensorFlow project for generating cartoon images by DCGAN.
 
 Step 1: Download the data in npy: download the data from the link below
 
